@@ -1,6 +1,7 @@
 # Front-End Developer Challenge
 
 ## Introduction
+
 This project is a front-end web development challenge for Matrix Group that showcases a website with a dynamic news carousel and an informative knowledge section. The site is styled using CSS and enhanced with JavaScript for interactive components.
 
 ## Technologies Used
