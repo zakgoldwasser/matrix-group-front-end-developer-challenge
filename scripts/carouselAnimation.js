@@ -13,7 +13,7 @@ $(document).ready(function () {
     }
   }
   updateCardsPerSlide();
-  $(window).resize(updateCardWidth);
+  $(window).resize(updateCardsPerSlide);
 
   function updateCarousel() {
     //Move carousel items
